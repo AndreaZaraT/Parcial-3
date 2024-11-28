@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<center>
+
+	<h1> <font color="#086600"> AFECTACIONES A LA CALIDAD DE LA </font> </h1> 
+	<img src="Fresa.png" width="360" height="191" align="center">
+	<h2> <font color="#0da200"> PROVOCADAS POR LOS PROCESOS DE MADURACIÓN </font> </h2>
+
+		</center>
+</head>
+
+<body>
+	<h3> INTRODUCCIÓN </h3>
+	<p> La fresa es uno de los frutos más apreciados a nivel mundial debido a su sabor, aroma y valor nutricional. Sin embargo, su naturaleza perecedera y los procesos asociados a su maduración presentan desafíos significativos para mantener su calidad durante la cosecha, el transporte y la comercialización. La maduración es un proceso biológico complejo que implica cambios químicos, físicos y fisiológicos, los cuales, aunque esenciales para desarrollar sus características sensoriales, también pueden comprometer su vida útil. </p>
+
+	<img src="Separador.png" width="1350" height="25" align="center">
+
+	<h4> Maduración </h4> 
+	<p> Es cuando el fruto está en un estado adecuado para su consumo en fresco o procesamiento industrial con todas las características organolépticas (sabor, textura, color, aroma, composición nutricional, entre otras). </p> 
+		<img src="Maduracion.jpg" width="150" height="100" align="center">
+
+	<h4> Técnicas de cultivo </h4>
+	<p> - Acolchado plástico </p> 
+	<p> - Cultivo en hidroponía </p>
+	<p> - Cultivo en sustrato </p>
+		<img src="Tecnica de cultivo.jpg" width="150" height="100" align="center">
+
+	<h4> Afectaciones </h4>
+	<p> - Perdida de firmeza del fruto </p>
+	<p> - Desarrollo de color no uniforme </p>
+	<p> - Perdida de sabor y aroma </p>
+	<p> - Susceptibilidad a enfermedades postcosecha </p>
+	<p> - Perdida de contenido nutricional </p> 
+		<img src="Afectaciones.jpg" width="150" height="100" align="center">
+
+	<iframe
+		src="https://docs.google.com/forms/d/e/1FAIpQLSeZ1lC6thQYiNsd_MSm-ChP7KI1dgwAzyNhYD6W3kEDqgERUA/viewform?usp=sf_link" width="640" height="670" frameborder="0" marginheight="0" marginwidth="0"> Cargando...
+
+
+</body>
+</html>
